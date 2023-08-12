@@ -17,3 +17,9 @@ We need to analyze critical indicators for our pizza sales data to gain insights
 
 # Software Used
 MS EXCEL, MS SQL SERVER, SQL SERVER MANAGEMENT STUDIO
+
+# Demo Video
+
+https://github.com/sakshipande23/Pizza_Sales_Dashboard/assets/89894414/e039ee56-e2cc-4d4c-9be4-d987d2d2cf51
+
+
