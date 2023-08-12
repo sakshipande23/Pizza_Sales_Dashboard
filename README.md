@@ -15,11 +15,18 @@ We need to analyze critical indicators for our pizza sales data to gain insights
 6. Top 5 best seller by total pizzas sold.
 7. Bottom 5 worst sellers by total pizza sold.
 
-# Software Used
+## Software Requirement
 MS EXCEL, MS SQL SERVER, SQL SERVER MANAGEMENT STUDIO
 
-# Demo Video
+## Demo Video
 
 https://github.com/sakshipande23/Pizza_Sales_Dashboard/assets/89894414/e039ee56-e2cc-4d4c-9be4-d987d2d2cf51
 
+## Installation
+git clone https://github.com/sakshipande23/road-accident-dashboard.git
 
+## Data Sources
+https://drive.google.com/drive/folders/1ecpBALfFUMSK-GOnk-X4nZhC_uK18zih
+
+## Contribution
+Feel free to modify and customize this template to fit your project's specific requirements.
